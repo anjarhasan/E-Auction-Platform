@@ -2,7 +2,27 @@
 
 A full-stack web application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) to host and manage online auctions. It supports user authentication, product listing, bidding functionality, and payment integration using Stripe.
 
----
+<img width="1895" height="910" alt="Screenshot 2025-04-24 092951" src="https://github.com/user-attachments/assets/d9093597-d662-42f2-b23c-b1cfced30844" />
+
+
+<img width="752" height="699" alt="Screenshot 2025-04-24 024814" src="https://github.com/user-attachments/assets/f02e6c8b-4525-4920-a78c-88681ae5a41a" />
+
+
+<img width="742" height="620" alt="Screenshot 2025-04-24 024852" src="https://github.com/user-attachments/assets/aa5ee078-faec-406d-ab01-32ba686b2dc7" />
+
+
+<img width="1899" height="885" alt="Screenshot 2025-05-15 002941" src="https://github.com/user-attachments/assets/2733b81a-d0a3-4ae1-a8e3-085c5441271a" />
+
+
+<img width="1885" height="895" alt="Screenshot 2025-05-15 002327" src="https://github.com/user-attachments/assets/09808cd5-956d-4669-b3d5-19ddaa5832d4" />
+
+
+<img width="1890" height="900" alt="Screenshot 2025-05-15 002401" src="https://github.com/user-attachments/assets/06fc9037-5b46-49ab-99ec-1216fa7288fb" />
+
+
+<img width="1883" height="897" alt="Screenshot 2025-05-15 002511" src="https://github.com/user-attachments/assets/5bd4eabd-ddca-4178-ad25-579bdf11a483" />
+
+
 
 ## 🚀 Features
 
