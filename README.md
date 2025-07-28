@@ -37,20 +37,35 @@ A full-stack web application built with the **MERN stack** (MongoDB, Express.js,
 ## 📁 Folder Structure
 
 E-Auction-Platform/
+
 ├── backend/
+
 │   ├── config/
+
 │   ├── controllers/
+
 │   ├── models/
+
 │   ├── routes/
+
 │   ├── middleware/
+
 │   └── server.js
+
 ├── frontend/
+
 │   ├── src/
+
 │   │   ├── components/
+
 │   │   ├── pages/
+
 │   │   ├── App.js
+
 │   │   └── index.js
+
 ├── .env
+
 └── README.md
 
 
