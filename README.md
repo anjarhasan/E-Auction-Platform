@@ -192,20 +192,8 @@ Anjar Hasan
 
 GitHub: @anjarhasan
 
-LinkedIn: [Add your LinkedIn link here]
+LinkedIn: [https://www.linkedin.com/in/anjar-hasan-b6925223a/]
 
 ⭐ Star This Repo
 If you found this project helpful or learned something from it, please give it a ⭐ to support the work.
 
-yaml
-Copy
-Edit
-
----
-
-Would you like me to:
-- Add badges (e.g. `License`, `Tech Used`, `Made with MERN`)?
-- Generate a version that includes deploy instructions (Heroku/Vercel)?
-- Help add real screenshots to embed?
-
-Let me know!
