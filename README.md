@@ -34,32 +34,25 @@ A full-stack web application built with the **MERN stack** (MongoDB, Express.js,
 - Multer (for image uploads)
 - JSON Web Tokens (JWT)
 
----
-
 ## 📁 Folder Structure
 
 E-Auction-Platform/
 ├── backend/
-│ ├── config/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── middleware/
-│ └── server.js
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   └── server.js
 ├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── App.js
-│ │ └── index.js
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.js
+│   │   └── index.js
 ├── .env
 └── README.md
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Setup Instructions
 
